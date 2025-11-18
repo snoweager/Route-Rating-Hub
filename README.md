@@ -69,6 +69,7 @@ Core Modules Explained
 • Computes the average rating
 • Visible at top of route details page
 ________________________________________
+Netlify link: https://route-rating-hub.netlify.app/
 Contributing
 Contributions are welcome.
 Open an issue to discuss proposed changes.
